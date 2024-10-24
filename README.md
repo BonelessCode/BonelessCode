@@ -2,8 +2,8 @@
 <h3 align="center">Curious jack of all trades, master of none</h3>
 <br>
 
-
-- 🔭 I’m currently working on **a calendar Android application**
+- 🔭 I’m currently working on large scale webscraping projects (**Python** : Selenium Driverless, Botright, Curl CFFI | **SQLite**)
+- 🔭 I’m also working on **a calendar Android application**
   
 <div style="display: flex;">
   <img src="https://i.imgur.com/inJaS9i.jpg"><img width="12" />
